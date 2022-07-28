@@ -1,9 +1,9 @@
 import string
 import re
 
-destino = open("prefixes.txt", "a")
+destino = open("prefixes_objects.txt", "a")
 
-f = open("combined.csv", "r")
+f = open("combined_objects.csv", "r")
 
 prefixes = []
 
